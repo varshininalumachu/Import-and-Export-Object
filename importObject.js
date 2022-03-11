@@ -1,2 +1,2 @@
-const { details } = require("./exportObject");
+const  details  = require("./exportObject");
 console.log(details);
